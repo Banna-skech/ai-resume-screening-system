@@ -1,0 +1,30 @@
+# 环境变量
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# 上传的简历文件
+data/uploads/*
+!data/uploads/.gitkeep
+
+# 报告
+data/reports/*
+!data/reports/.gitkeep
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

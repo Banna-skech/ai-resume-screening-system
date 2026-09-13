@@ -1,0 +1,21 @@
+# 核心
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# LLM (OpenAI SDK 兼容 DeepSeek)
+openai>=1.6.0
+
+# UI
+streamlit>=1.36.0
+
+# 文档解析
+pdfminer.six>=20221105
+python-docx>=1.1.0
+
+# 数据与报告
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# 工具
+tenacity>=8.2.0
